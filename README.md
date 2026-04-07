@@ -1,1 +1,1 @@
-# my-private-frame-study-collection
+- 2022-11-30 [Behind the Pretty Frames: Death Stranding](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
