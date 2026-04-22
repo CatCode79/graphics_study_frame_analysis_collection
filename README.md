@@ -1,7 +1,9 @@
-- 2026-04-08 [Behind the Pretty Frames: PRAGMATA](https://mamoniem.com/behind-the-pretty-frames-pragmata/)
-- 2024-11-27 [Behind the Pretty Frames: Detroit Become Human](https://mamoniem.com/behind-the-pretty-frames-detroit-become-human/)
-- 2023-06-28 [Behind the Pretty Frames: Diablo IV](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)
-- 2022-11-30 [Behind the Pretty Frames: Death Stranding](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
-- 2022-05-25 [Behind the Pretty Frames: Elden Ring](https://mamoniem.com/behind-the-pretty-frames-elden-ring/)
-- 2022-07-20 [Behind the Pretty Frames: Resident Evil](https://mamoniem.com/behind-the-pretty-frames-resident-evil/)
-- 2022-01 15 [Behind the Pretty Frames: God of War](https://mamoniem.com/behind-the-pretty-frames-god-of-war/)
+| Game Title           | Date       | Analysis Link
+| -------------------- | ---------- | -------------
+| Death Stranding      | 2022-11-30 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
+| Detroit Become Human | 2024-11-27 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-detroit-become-human/)
+| Diablo IV            | 2023-06-28 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)
+| Elden Ring           | 2022-05-25 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-elden-ring/)
+| God of War           | 2022-01 15 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-god-of-war/)
+| PRAGMATA             | 2026-04-08 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-pragmata/)
+| Resident Evil        | 2022-07-20 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-resident-evil/)
