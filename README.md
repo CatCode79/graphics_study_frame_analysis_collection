@@ -1,14 +1,17 @@
 | Game Title               | Date       | Analysis Link
 | ------------------------ | ---------- | -------------
-| Anno 1800                | 2025-08-16 | [blog.thomaspoulet.fr/](https://blog.thomaspoulet.fr/posts/anno-1800-frame-analysis/)
+| Anno 1800                | 2025-08-16 | [blog.thomaspoulet.fr](https://blog.thomaspoulet.fr/posts/anno-1800-frame-analysis/)
 | Assassins Creed II       | 2015-12-05 | [froyok.fr](https://www.froyok.fr/blog/2015-12-breakdown-assassins-creed-ii-2/)
 | Batman Arkham City       | 2012-09-21 | [froyok.fr](https://www.froyok.fr/blog/2012-09-breakdown-batman-arkham-city/)
 | Death Stranding          | 2022-11-30 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
 | Detroit Become Human     | 2024-11-27 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-detroit-become-human/)
 | Diablo IV                | 2023-06-28 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)
+| Digital Combat Simulator | 2021-09-19 | [blog.thomaspoulet.fr](https://blog.thomaspoulet.fr/posts/dcs-frame-analysis/)
 | Elden Ring               | 2022-05-25 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-elden-ring/)
 | God of War               | 2022-01 15 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-god-of-war/)
+| Ni No Kuni 2             | 2018-11-07 | [blog.thomaspoulet.fr](https://blog.thomaspoulet.fr/posts/ni-no-kuni-2-frame-analysis/)
 | PRAGMATA                 | 2026-04-08 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-pragmata/)
 | Resident Evil            | 2022-07-20 | [Behind the Pretty Frames](https://mamoniem.com/behind-the-pretty-frames-resident-evil/)
 | Shadow Of Colossus (PS2) | 2012-10-07 | [froyok.fr](https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2/)
 | Syndicate                | 2024-01-31 | [froyok.fr](https://www.froyok.fr/blog/2024-01-breakdown-syndicate/)
+| The Witness              | 2017-08-21 | blog.thomaspoulet.fr [Part 1](https://blog.thomaspoulet.fr/posts/the-witness-frame-analysis-part-1/) [Part2](https://blog.thomaspoulet.fr/posts/the-witness-frame-analysis-part-2/)
